@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: All about Elena!
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -68,22 +68,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  email: "elena91123@yahoo.com"
+  facebook: Elena Maria Hayes
+  twitter: elena91123
+#  snapchat: elena91123
+#  instagram: elena.m.hayes
 
 # Select which share links to show in posts
 share-links-active:
